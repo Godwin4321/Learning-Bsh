@@ -12,4 +12,3 @@ elif [ $number -lt 0 ]; then
 else
 	echo "User entered zero"
 fi
-
